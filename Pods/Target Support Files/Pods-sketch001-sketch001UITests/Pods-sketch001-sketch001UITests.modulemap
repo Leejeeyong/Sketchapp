@@ -1,0 +1,6 @@
+framework module Pods_sketch001_sketch001UITests {
+  umbrella header "Pods-sketch001-sketch001UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
