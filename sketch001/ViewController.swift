@@ -21,7 +21,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     var lastPoint: CGPoint!
     var lineSize:CGFloat = 2.0
-    var lineESize:CGFloat = 5.0
+    var lineESize:CGFloat = 10.0
     var lineColor = UIColor.black.cgColor
     var lineEColor = UIColor.white.cgColor
     
